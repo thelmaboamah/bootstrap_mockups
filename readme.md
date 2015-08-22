@@ -2,6 +2,10 @@
 
 A lab for [Front-end Productivity w/ Bootstrap & Bower]() lesson.
 
+##Goal
+
+Use Bootstrap's library to help you impliment mockups!
+
 ##Setup
 
 * Work in pairs!
