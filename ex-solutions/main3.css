@@ -1,0 +1,31 @@
+.form-control-feedback {
+  top: 0;
+}
+#roundedSearch {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.roundedIcon  {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.social {
+  height: 30px;
+  width: 30px;
+  border-radius: 20%;
+  margin-right: 10px;
+}
+#full {
+  width: 100%;
+}
+.buttonSpacing {
+  margin-right: 10px;
+}
+.col-md-6 h3 {
+  margin-top: 0;
+}
+.col-md-6 .btn {
+  /*padding-right: 40px;
+  padding-left: 40px;*/
+  padding: 10px 40px;
+}
