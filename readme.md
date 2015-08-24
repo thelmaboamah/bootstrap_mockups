@@ -11,5 +11,5 @@ A lab for [Front-end Productivity w/ Bootstrap & Bower]() lesson.
 
 ##Tips
 
-* Refer to the Bootstrap's documention for more guidance. You can find two main sectinons of documentation, one for all of Bootstraps [CSS classes](http://getbootstrap.com/css/), and another for all of it's [components](http://getbootstrap.com/components/) (a combination of CSS & JavaScript)
+* Refer to the Bootstrap's documention for more guidance. You can find two main sections of documentation, one for all of Bootstrap's [CSS classes](http://getbootstrap.com/css/), and another for all of its [components](http://getbootstrap.com/components/) (a combination of CSS & JavaScript)
 * For placeholder images you try [placekitten](https://placekitten.com/)!
