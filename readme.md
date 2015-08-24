@@ -1,15 +1,19 @@
 #Bootstrap Mockups
 
-A lab for [Front-end Productivity w/ Bootstrap & Bower]() lesson.
+Please refer to the three mockup images in the [mockups folder](/mockups).
 
-##Setup
+Work in pairs.
 
-* Work in pairs!
+Your goal is to build three different page layouts using the Boostrap CSS Framework. You will need to dig into their documentation on [Bootstrap CSS classes](http://getbootstrap.com/css/) and [Bootstrap components](http://getbootstrap.com/components/) (a combination of CSS & JavaScript).
+
+A solution to this lab can be found in the Solutions Branch.
+
+## Hints
+* Don't forget to include jQuery and Bootstrap (CSS + Javascript) in the `head` of your project (jQuery is a dependency of bootstrap).
+* Don't forget to wrap everything (except the nav bar) in a <div class='container'>
+* For placeholder images, try [placekitten](https://placekitten.com/) or [lorempixel](http://lorempixel.com). 340x200 should work fine.
+* For dummy text, check out [Lorem Ipsum](http://www.lipsum.com/).
+* For icons, take a look at Bootstrap's Glyphicons. For more common symbols, use HTML Symbols.
+
+##Bonus
 * Use bower to include jQuery and Bootstrap (the CSS, JS, and theme files).
-* For each mockup in the `mockups` directory create a seperate html file and require your libraries in it.
-
-
-##Tips
-
-* Refer to the Bootstrap's documention for more guidance. You can find two main sections of documentation, one for all of Bootstrap's [CSS classes](http://getbootstrap.com/css/), and another for all of its [components](http://getbootstrap.com/components/) (a combination of CSS & JavaScript)
-* For placeholder images you try [placekitten](https://placekitten.com/)!
